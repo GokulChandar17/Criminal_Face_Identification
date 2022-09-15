@@ -1,4 +1,4 @@
-# Gokul
+# Criminal Face Identification
 Java code
 In this project, created a database of  criminals. 
 We can see the informations of criminals.
